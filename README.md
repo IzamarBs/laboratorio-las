@@ -3,7 +3,7 @@
 ## 1. Datos generales
 
 - **Nombre completo:** Helen Izamar Gonzalez Bolaños
-- **Carné:** (no me han dado id)
+- **Carné:** NULL
 - **Correo institucional:**  helengonzalez298@gmail.com
 - **Asignatura:** LENGUAJES DE PROGRAMACIÓN CON ASPECTOS DE SEGURIDAD
 - **Fecha:** 08/10/2026
@@ -53,6 +53,6 @@ Prueba               MTTD            MTTR
 1                    50.0 s          434.0 s
 2                    35.0 s          104.0 s
 3                    32.0 s          55.0  s
-PROMEDIO             39              197.6666
+PROMEDIO             MTTD 39         MTTR 197.6666
 
 ```
